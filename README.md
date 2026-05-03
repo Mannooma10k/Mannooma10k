@@ -15,7 +15,7 @@ That early curiosity grew into a deep dedication to software development and dig
 
 Today, I’m a content creator and an aspiring developer who constantly works to improve, learn, and push my skills forward. I enjoy building projects,
 experimenting with ideas, and staying connected to the growing world of tech.
-My favorite languages are JavaScript, CSS, and HTML, and I use them to bring concepts to life in clean, functional, and creative ways.
+languages are JavaScript, CSS, HTML and Paython, I use them to bring concepts to life in clean, functional, and creative ways.
 
 I actively publish and collaborate on several Websites, including:
 
